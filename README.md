@@ -1,5 +1,5 @@
 # Angry Birds The Game
-[75/200] Chapter 5 Angry Birds
+[75/100] Chapter 5 Angry Birds
 448
 Dandi Prayogatama
 
